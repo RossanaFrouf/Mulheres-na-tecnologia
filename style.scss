@@ -19,6 +19,10 @@ h1{
     text-align: center; // centralização do texto no meio da página
     margin: 20px;
 
+    @media (min-width:201px) and (max-width: 500px){
+       font-size: 1.5rem;
+    }
+
 }
 
 p{
@@ -43,6 +47,8 @@ ul{
     
     @media (min-width:201px) and (max-width: 500px){
         display: block; // remove o display flex quando estiver no modo responsivo
+        text-align: center;
+        
     }
  
 }
