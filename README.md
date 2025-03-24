@@ -1,1 +1,0 @@
-# Mulheres na Tecnologia
