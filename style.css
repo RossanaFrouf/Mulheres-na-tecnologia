@@ -21,15 +21,9 @@ h1 {
 }
 
 p {
-  font-size: 1.3rem;
   margin: 20px;
   padding: 30px;
   text-align: justify;
-}
-@media (min-width: 201px) and (max-width: 500px) {
-  p {
-    font-size: large;
-  }
 }
 
 .texto1 {

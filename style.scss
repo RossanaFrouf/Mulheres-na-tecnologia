@@ -25,14 +25,10 @@ h1{
 
 
 p{
-    font-size: 1.3rem;
     margin: 20px;
     padding: 30px;
     text-align: justify; // deixa o texto justificado, de forma que fique todo alinhado
 
-    @media (min-width:201px) and (max-width: 500px){
-        font-size: large;
-    }
 }
 
 .texto1{
