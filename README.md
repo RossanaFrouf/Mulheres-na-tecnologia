@@ -26,7 +26,7 @@ Esse projeto foi feito através do curso Vai na Web.
 
 ## WEB
 
-![download (4)](https://github.com/user-attachments/assets/a1ed2393-81b5-4da8-a5b0-41ed2330c0d6)
+![download](https://github.com/user-attachments/assets/4ee299cd-0025-48ad-a56c-adb79abe319b)
 
 ## Responsivo
 
