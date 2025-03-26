@@ -1,0 +1,74 @@
+*{ //reset dos padrões pré estabelecidos nos navegadores
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{    
+    background-color: rgb(241, 193, 223); // Define uma cor de fundo para todo o conteúdo da página
+    margin: 15px; //espaçamento fora do elemento 
+    padding: 10px; //espaçamento dentro do elemento
+
+    @media (min-width:201px) and (max-width: 500px){ // Define uma largura minima e maxima de responsividade para a tela
+
+    }
+}
+
+h1{
+    text-align: center; // centralização do texto no meio da página
+    margin: 20px;
+
+    @media (min-width:201px) and (max-width: 500px){
+       font-size: 1.5rem;
+    }
+
+}
+
+
+p{
+    margin: 20px;
+    text-align: justify; // deixa o texto justificado, de forma que fique todo alinhado
+}
+
+.texto1{
+    text-align: center;
+}
+
+img{
+    width: 70%;
+    padding-left: 30%;
+
+    @media (min-width:201px) and (max-width: 500px){
+        padding: 10px;
+        height: 32vh;
+        width: 100%;
+    }
+}
+
+ul{
+    padding: 20px;
+    list-style: none; // remove a bolinha que fica de forma automatica no ul
+    display: flex;
+    justify-content: space-around; // cria um espaçamento entre os itens
+    
+    @media (min-width:201px) and (max-width: 500px){
+        display: block; // remove o display flex quando estiver no modo responsivo
+        text-align: center;
+    }
+ 
+}
+
+.grace{
+    display: flex;
+    justify-content: center;
+}
+
+a{ // define uma estilização para o item clicavél
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+        color: rgb(165, 42, 93); // altera a cor com o passar do mouse em cima
+    }
+
+}
