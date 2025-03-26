@@ -12,6 +12,7 @@ body {
 h1 {
   text-align: center;
   margin: 20px;
+  padding: 30px;
 }
 @media (min-width: 201px) and (max-width: 500px) {
   h1 {
@@ -21,6 +22,7 @@ h1 {
 
 p {
   margin: 20px;
+  padding: 30px;
   text-align: justify;
 }
 
@@ -29,8 +31,8 @@ p {
 }
 
 img {
-  width: 70%;
-  padding-left: 30%;
+  width: 60%;
+  padding-left: 35%;
 }
 @media (min-width: 201px) and (max-width: 500px) {
   img {
@@ -41,7 +43,7 @@ img {
 }
 
 ul {
-  padding: 20px;
+  padding: 30px;
   list-style: none;
   display: flex;
   justify-content: space-around;
