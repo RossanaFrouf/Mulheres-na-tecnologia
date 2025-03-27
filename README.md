@@ -1,5 +1,3 @@
-# Projeto Mulheres na Tecnologia
-
 ## Descrição
 
 Este projeto consiste na criação de uma página simples, com foco em contar histórias de mulheres na tecnologia. O objetivo principal foi criar um site básico com links para cada história de mulheres na área de tecnologia, utilizando HTML para a marcação e SCSS para a estilização avançada, sem o uso de JavaScript.
@@ -26,13 +24,13 @@ Esse projeto foi feito através do curso Vai na Web.
 
 ## WEB
 
-![download](https://github.com/user-attachments/assets/4ee299cd-0025-48ad-a56c-adb79abe319b)
+![download](https://github.com/user-attachments/assets/6434c754-7d75-46a3-90e5-284200a72725)
 
 ## Responsivo
 
 <div align="center">  
-<img src="https://github.com/user-attachments/assets/4838882a-ab5f-4653-af48-c3db009f38ac" alt="Captura de Tela" width="300">
-<img src="https://github.com/user-attachments/assets/2a573c30-6f4e-4f03-a4d9-444d837f24a2" alt="Captura de Tela" width="300">
+<img src="https://github.com/user-attachments/assets/894b099a-619a-41b0-87fb-c38494b73bfc" alt="Captura de Tela" width="300">
+<img src="https://github.com/user-attachments/assets/40984056-9633-4985-8585-cc1f51a550f9" alt="Captura de Tela" width="300">
 </div>
 
 ## Créditos
