@@ -9,14 +9,16 @@ body {
   margin: 15px;
   padding: 10px;
 }
+
 h1 {
   text-align: center;
-  margin: 20px;
-  padding: 30px;
+  margin: 15px;
+  padding: 25px;
 }
 @media (min-width: 201px) and (max-width: 500px) {
   h1 {
     font-size: 1.5rem;
+    padding: 0;
   }
 }
 
@@ -25,9 +27,19 @@ p {
   padding: 30px;
   text-align: justify;
 }
+@media (min-width: 201px) and (max-width: 500px) {
+  p {
+    padding: 10px;
+  }
+}
 
 .texto1 {
   text-align: center;
+}
+@media (min-width: 201px) and (max-width: 500px) {
+  .texto1 {
+    text-align: justify;
+  }
 }
 
 img {
@@ -52,6 +64,7 @@ ul {
   ul {
     display: block;
     text-align: center;
+    padding: 10px;
   }
 }
 
@@ -66,4 +79,9 @@ a {
 }
 a:hover {
   color: rgb(165, 42, 93);
+}
+@media (min-width: 201px) and (max-width: 500px) {
+  a {
+    padding: 10px;
+  }
 }/*# sourceMappingURL=style.css.map */

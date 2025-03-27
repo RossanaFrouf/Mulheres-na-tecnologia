@@ -8,31 +8,36 @@ body{
     background-color: rgb(241, 193, 223); // Define uma cor de fundo para todo o conteúdo da página
     margin: 15px; //espaçamento fora do elemento 
     padding: 10px; //espaçamento dentro do elemento
-
-    @media (min-width:201px) and (max-width: 500px){ // Define uma largura minima e maxima de responsividade para a tela
-
-    }
 }
 
 h1{
     text-align: center; // centralização do texto no meio da página
-    margin: 20px;
-    padding: 30px;
+    margin: 15px;
+    padding: 25px;
     @media (min-width:201px) and (max-width: 500px){
        font-size: 1.5rem;
+       padding: 0;
     }
 }
 
 
-p{
+p{   
     margin: 20px;
     padding: 30px;
     text-align: justify; // deixa o texto justificado, de forma que fique todo alinhado
 
-}
+    @media (min-width:201px) and (max-width: 500px){
+        padding: 10px;
+     }
+ }
+
 
 .texto1{
     text-align: center; // classe criada para alinhar o primeiro texto na horizontal
+
+    @media (min-width:201px) and (max-width: 500px){
+        text-align: justify;
+     }
 }
 
 img{
@@ -55,6 +60,7 @@ ul{
     @media (min-width:201px) and (max-width: 500px){
         display: block; // remove o display flex quando estiver no modo responsivo
         text-align: center;
+        padding: 10px;
     }
 }
 
@@ -70,5 +76,8 @@ a{ // define uma estilização para o item clicavél
     &:hover {
         color: rgb(165, 42, 93); // altera a cor com o passar do mouse em cima
     }
-
+    
+    @media (min-width:201px) and (max-width: 500px){
+        padding: 10px;
+     }
 }
