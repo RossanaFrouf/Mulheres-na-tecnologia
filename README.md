@@ -29,8 +29,9 @@ Esse projeto foi feito através do curso Vai na Web.
 ## Responsivo
 
 <div align="center">  
-<img src="https://github.com/user-attachments/assets/894b099a-619a-41b0-87fb-c38494b73bfc" alt="Captura de Tela" width="300">
-<img src="https://github.com/user-attachments/assets/40984056-9633-4985-8585-cc1f51a550f9" alt="Captura de Tela" width="300">
+<img src="https://github.com/user-attachments/assets/eee729ee-70a2-4ea9-bdbf-4fd1f5e3ba94" alt="Captura de Tela" width="300">  
+<img src="https://github.com/user-attachments/assets/e523495b-9b60-4086-a772-c03d8de353c2" alt="Captura de Tela" width="300">
+
 </div>
 
 ## Créditos
